@@ -1,0 +1,14 @@
+C:\xampp\htdocs\colosso\bin\Debug\net9.0\colosso.exe
+C:\xampp\htdocs\colosso\bin\Debug\net9.0\colosso.deps.json
+C:\xampp\htdocs\colosso\bin\Debug\net9.0\colosso.runtimeconfig.json
+C:\xampp\htdocs\colosso\bin\Debug\net9.0\colosso.dll
+C:\xampp\htdocs\colosso\bin\Debug\net9.0\colosso.pdb
+C:\xampp\htdocs\colosso\obj\Debug\net9.0\colosso.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\colosso\obj\Debug\net9.0\colosso.AssemblyInfoInputs.cache
+C:\xampp\htdocs\colosso\obj\Debug\net9.0\colosso.AssemblyInfo.cs
+C:\xampp\htdocs\colosso\obj\Debug\net9.0\colosso.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\colosso\obj\Debug\net9.0\colosso.dll
+C:\xampp\htdocs\colosso\obj\Debug\net9.0\refint\colosso.dll
+C:\xampp\htdocs\colosso\obj\Debug\net9.0\colosso.pdb
+C:\xampp\htdocs\colosso\obj\Debug\net9.0\colosso.genruntimeconfig.cache
+C:\xampp\htdocs\colosso\obj\Debug\net9.0\ref\colosso.dll
